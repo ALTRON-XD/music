@@ -14,7 +14,7 @@ API_HASH = getenv("API_HASH", "f453f409460b31898c28852faba1f5dd")
 BOT_TOKEN = getenv("BOT_TOKEN", "5924394033:AAH4NGVoec3caDx4pat1Qx4Rs3Gx-hwrP98")
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://alone:alone@cluster0.j4hrlec.mongodb.net/?retryWrites=true&w=majority")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://9xmmusic:9xmmusic@cluster0.ixdzv8s.mongodb.net/?retryWrites=true&w=majority")
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 60))
 
